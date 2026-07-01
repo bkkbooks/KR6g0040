@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR6g0040/v1
+canonical_location: https://kanripo.org/bkk/KR6g0040/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說當來變經
+  identifiers:
+    alt_id:
+    - T12n0395
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0395.xml
+    old_id: T12n0395
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 聖
+  label: 聖
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0040_000.yaml, hash: 'sha256:e999624f73c61bad009470d70d1bbe83e366d70be958dcdafd847b97cad5dee1'}
+  - {seq: 1, filename: KR6g0040_001.yaml, hash: 'sha256:4f4c308526b289e3d9615b1795be6a3c4d3d3d100cc5b8dec0ec18f66f56d2c2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6g0040_001.markers.yaml, hash: 'sha256:9eb43bf56165505774736a9dbcaab3dd4fb327e3b76fde6b7e5bd90cf586e763'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0040_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 823
+  label: 佛說當來變經
+  type: juan
+  level: 1
+hash: sha256:d55931c13ebf78156fd4eb7ddeb879f5ac30addcac4cc0800106f45a45d2322f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

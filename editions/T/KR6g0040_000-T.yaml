@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0040/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說當來變經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0395.xml
+    old_id: T12n0395
+hash: sha256:e999624f73c61bad009470d70d1bbe83e366d70be958dcdafd847b97cad5dee1
