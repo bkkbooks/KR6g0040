@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6g0040_000.yaml, hash: 'sha256:e999624f73c61bad009470d70d1bbe83e366d70be958dcdafd847b97cad5dee1'}
-  - {seq: 1, filename: KR6g0040_001.yaml, hash: 'sha256:4f4c308526b289e3d9615b1795be6a3c4d3d3d100cc5b8dec0ec18f66f56d2c2'}
+  - {seq: 1, filename: KR6g0040_001.yaml, hash: 'sha256:b3cc1f0de40bb63ab0d595a0d0f8130aaa4c89137c24f1e43320ac5f92c9f226'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6g0040_001.markers.yaml, hash: 'sha256:9eb43bf56165505774736a9dbcaab3dd4fb327e3b76fde6b7e5bd90cf586e763'}
+  - {seq: 0, role: markers, filename: assets/KR6g0040_000.markers.yaml, hash: 'sha256:fbb40ff5fa13b9899b9003e4c88eca462841a78f65db68b7b34ce2df9a8620f2'}
+  - {seq: 1, role: markers, filename: assets/KR6g0040_001.markers.yaml, hash: 'sha256:3b73bc5067e23e796aaba096240c8e31b555e9274994ba8d089f4b7709727779'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 佛說當來變經
   type: juan
   level: 1
-hash: sha256:d55931c13ebf78156fd4eb7ddeb879f5ac30addcac4cc0800106f45a45d2322f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c79652f21b03deae52f7ff832a3a362f8ca3c1c72ea71543a9a250b7e229bab9
