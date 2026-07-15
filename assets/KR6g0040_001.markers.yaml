@@ -16,6 +16,7 @@ markers:
   - {type: punctuation, offset: 16, content: ，, id: KR6g0040_T_001-bkkpn2}
   - {type: punctuation, offset: 27, content: ，, id: KR6g0040_T_001-bkkpn3}
   - {type: line-break, offset: 28, content: '', id: KR6g0040_T_001-1118a10, ed: T, 'n': 1118a10}
+  - {type: substitution, offset: 31, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 33, content: ，, id: KR6g0040_T_001-bkkpn4}
   - {type: punctuation, offset: 41, content: 。, id: KR6g0040_T_001-bkkpn5}
   - {type: xml-element, offset: 41, content: '', id: pT12p1118a0904_end, name: p, role: close, attrs: {'xml:id': pT12p1118a0904, 'cb:place': inline}}
@@ -142,9 +143,11 @@ markers:
   - {type: variant, offset: 322, length: 12, content: 已捨家〔業〕－【三】【宮】業【大】，〔－〕【宋】【元】【明】【宮】業，在空閑處不修道業, 聖: 捨空閑處修道之業}
   - {type: variant, offset: 325, length: 1, content: 業, 宋: '', 元: '', 明: '', 宮: ''}
   - {type: punctuation, offset: 326, content: ，, id: KR6g0040_T_001-bkkpn77}
+  - {type: substitution, offset: 328, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: line-break, offset: 332, content: '', id: KR6g0040_T_001-1118b02, ed: T, 'n': 1118b02}
   - {type: punctuation, offset: 334, content: 。, id: KR6g0040_T_001-bkkpn78}
   - {type: punctuation, offset: 335, content: 、, id: KR6g0040_T_001-bkkpn79}
+  - {type: substitution, offset: 335, original: 憙, replacement: 喜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19931}}
   - {type: punctuation, offset: 343, content: ，, id: KR6g0040_T_001-bkkpn80}
   - {type: variant, offset: 344, length: 1, content: 來, 宋: 來比丘, 元: 來比丘, 明: 來比丘, 聖: 來比丘}
   - {type: punctuation, offset: 347, content: ，, id: KR6g0040_T_001-bkkpn81}
@@ -236,6 +239,7 @@ markers:
   - {type: punctuation, offset: 556, content: 、, id: KR6g0040_T_001-bkkpn136}
   - {type: line-break, offset: 559, content: '', id: KR6g0040_T_001-1118b16, ed: T, 'n': 1118b16}
   - {type: punctuation, offset: 564, content: ，, id: KR6g0040_T_001-bkkpn137}
+  - {type: substitution, offset: 567, original: 慼, replacement: 戚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17288}}
   - {type: punctuation, offset: 568, content: ，, id: KR6g0040_T_001-bkkpn138}
   - {type: variant, offset: 569, length: 2, content: 發斯, 宋: 能發, 元: 能發, 明: 能發, 宮: 能發}
   - {type: punctuation, offset: 572, content: ：, id: KR6g0040_T_001-bkkpn139}
@@ -281,6 +285,7 @@ markers:
   - {type: variant, offset: 672, length: 1, content: 化, 宋: 辭, 元: 辭, 明: 辭, 宮: 辭}
   - {type: punctuation, offset: 677, content: ，, id: KR6g0040_T_001-bkkpn166}
   - {type: variant, offset: 678, length: 2, content: 本說, 宋: 其本, 元: 其本, 明: 其本, 宮: 其本}
+  - {type: substitution, offset: 679, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: line-break, offset: 684, content: '', id: KR6g0040_T_001-1118b24, ed: T, 'n': 1118b24}
   - {type: punctuation, offset: 685, content: ，, id: KR6g0040_T_001-bkkpn167}
   - {type: punctuation, offset: 693, content: —, id: KR6g0040_T_001-bkkpn168}
@@ -338,6 +343,7 @@ markers:
   - {type: punctuation, offset: 806, content: 」, id: KR6g0040_T_001-bkkpn201}
   - {type: xml-element, offset: 806, content: '', id: pT12p1118b2001_end, name: p, role: close, attrs: {'xml:id': pT12p1118b2001}}
   - {type: xml-element, offset: 806, content: '', id: pT12p1118c0208, name: p, role: open, attrs: {'xml:id': pT12p1118c0208, 'cb:place': inline}}
+  - {type: substitution, offset: 807, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 810, content: ，, id: KR6g0040_T_001-bkkpn202}
   - {type: line-break, offset: 816, content: '', id: KR6g0040_T_001-1118c03, ed: T, 'n': 1118c03}
   - {type: punctuation, offset: 819, content: ，, id: KR6g0040_T_001-bkkpn203}
@@ -345,4 +351,4 @@ markers:
   - {type: xml-element, offset: 823, content: '', id: pT12p1118c0208_end, name: p, role: close, attrs: {'xml:id': pT12p1118c0208, 'cb:place': inline}}
   - {type: line-break, offset: 823, content: '', id: KR6g0040_T_001-1118c04, ed: T, 'n': 1118c04}
   back: []
-hash: sha256:3b73bc5067e23e796aaba096240c8e31b555e9274994ba8d089f4b7709727779
+hash: sha256:f90583fdf4ea16a37750ce19476541256565d6a39793710e9191f334fb6ba67b

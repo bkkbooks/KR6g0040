@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6g0040/v1
 canonical_location: https://kanripo.org/bkk/KR6g0040/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說當來變經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6g0040_000.yaml, hash: 'sha256:e999624f73c61bad009470d70d1bbe83e366d70be958dcdafd847b97cad5dee1'}
-  - {seq: 1, filename: KR6g0040_001.yaml, hash: 'sha256:b3cc1f0de40bb63ab0d595a0d0f8130aaa4c89137c24f1e43320ac5f92c9f226'}
+  - {seq: 1, filename: KR6g0040_001.yaml, hash: 'sha256:50503c936df20e9ffe8e6305136c2fb5967bbc65ce30013b499ca2e744a84476'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6g0040_000.markers.yaml, hash: 'sha256:fbb40ff5fa13b9899b9003e4c88eca462841a78f65db68b7b34ce2df9a8620f2'}
-  - {seq: 1, role: markers, filename: assets/KR6g0040_001.markers.yaml, hash: 'sha256:3b73bc5067e23e796aaba096240c8e31b555e9274994ba8d089f4b7709727779'}
+  - {seq: 1, role: markers, filename: assets/KR6g0040_001.markers.yaml, hash: 'sha256:f90583fdf4ea16a37750ce19476541256565d6a39793710e9191f334fb6ba67b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 佛說當來變經
   type: juan
   level: 1
-hash: sha256:c79652f21b03deae52f7ff832a3a362f8ca3c1c72ea71543a9a250b7e229bab9
+hash: sha256:c5fb74dcf5353d06d3acbd66b5e756c6a19c298900eaa7e93d2a90cd89a849a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
